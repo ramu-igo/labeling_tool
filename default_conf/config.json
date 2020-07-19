@@ -1,0 +1,219 @@
+{
+  "points": [
+    {
+      "tag": "nose",
+      "connectTo": [
+        "R-eye",
+        "L-eye",
+        "mouth",
+        "chest"
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "tag": "R-eye",
+      "connectTo": [
+        "nose",
+        "R-ear"
+      ],
+      "rgb": [
+        255,
+        255,
+        180
+      ]
+    },
+    {
+      "tag": "L-eye",
+      "connectTo": [
+        "nose",
+        "L-ear"
+      ],
+      "rgb": [
+        180,
+        255,
+        255
+      ]
+    },
+    {
+      "tag": "mouth",
+      "connectTo": [
+        "nose"
+      ],
+      "rgb": [
+        150,
+        150,
+        150
+      ]
+    },
+    {
+      "tag": "R-ear",
+      "connectTo": [
+        "R-eye"
+      ],
+      "rgb": [
+        255,
+        255,
+        120
+      ]
+    },
+    {
+      "tag": "L-ear",
+      "connectTo": [
+        "L-eye"
+      ],
+      "rgb": [
+        120,
+        255,
+        255
+      ]
+    },
+    {
+      "tag": "R-sho",
+      "connectTo": [
+        "L-sho",
+        "R-hip",
+        "R-elbow"
+      ],
+      "rgb": [
+        90,
+        150,
+        0
+      ]
+    },
+    {
+      "tag": "L-sho",
+      "connectTo": [
+        "R-sho",
+        "L-hip",
+        "L-elbow"
+      ],
+      "rgb": [
+        0,
+        150,
+        90
+      ]
+    },
+    {
+      "tag": "R-elbow",
+      "connectTo": [
+        "R-sho",
+        "R-wrist"
+      ],
+      "rgb": [
+        120,
+        180,
+        0
+      ]
+    },
+    {
+      "tag": "L-elbow",
+      "connectTo": [
+        "L-sho",
+        "L-wrist"
+      ],
+      "rgb": [
+        0,
+        180,
+        120
+      ]
+    },
+    {
+      "tag": "R-wrist",
+      "connectTo": [
+        "R-elbow"
+      ],
+      "rgb": [
+        180,
+        180,
+        0
+      ]
+    },
+    {
+      "tag": "L-wrist",
+      "connectTo": [
+        "L-elbow"
+      ],
+      "rgb": [
+        0,
+        180,
+        180
+      ]
+    },
+    {
+      "tag": "R-hip",
+      "connectTo": [
+        "R-sho",
+        "L-hip",
+        "R-knee"
+      ],
+      "rgb": [
+        50,
+        100,
+        0
+      ]
+    },
+    {
+      "tag": "L-hip",
+      "connectTo": [
+        "L-sho",
+        "R-hip",
+        "L-knee"
+      ],
+      "rgb": [
+        0,
+        100,
+        50
+      ]
+    },
+    {
+      "tag": "R-knee",
+      "connectTo": [
+        "R-hip",
+        "R-ankle"
+      ],
+      "rgb": [
+        210,
+        0,
+        0
+      ]
+    },
+    {
+      "tag": "L-knee",
+      "connectTo": [
+        "L-hip",
+        "L-ankle"
+      ],
+      "rgb": [
+        0,
+        0,
+        210
+      ]
+    },
+    {
+      "tag": "R-ankle",
+      "connectTo": [
+        "R-knee"
+      ],
+      "rgb": [
+        250,
+        0,
+        0
+      ]
+    },
+    {
+      "tag": "L-ankle",
+      "connectTo": [
+        "L-knee"
+      ],
+      "rgb": [
+        0,
+        0,
+        250
+      ]
+    }
+  ]
+}
