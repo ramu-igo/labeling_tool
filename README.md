@@ -1,9 +1,11 @@
 # labeling_tool
 Qt-based GUI labeling tool.
 
-![tool_example](https://user-images.githubusercontent.com/68230762/87870056-8c7b4400-c9df-11ea-9f3d-0f48a0785905.png)
+イメージ1: 編集画面
+<img width="80%" alt="tool_example.png" src="https://user-images.githubusercontent.com/68230762/87870056-8c7b4400-c9df-11ea-9f3d-0f48a0785905.png">
 
-![result](https://user-images.githubusercontent.com/68230762/87870067-99983300-c9df-11ea-834a-fcc3d2f1f498.png)
+イメージ2: 元画像(左)とエクスポート画像(右)
+<img width="60%" alt="result.png" src="https://user-images.githubusercontent.com/68230762/87870067-99983300-c9df-11ea-834a-fcc3d2f1f498.png">
 
 ・(主に)人物の全身画像に対するラベリングツール.
 　想定用途は、画像変換タスク(pix2pixやその派生等)の学習データセット作成.
