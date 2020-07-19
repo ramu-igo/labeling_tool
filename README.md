@@ -1,5 +1,4 @@
 # labeling_tool
-Qt-based GUI labeling tool.
 
 イメージ1: 編集画面
 
@@ -10,8 +9,8 @@ Qt-based GUI labeling tool.
 <img width="60%" alt="result.png" src="https://user-images.githubusercontent.com/68230762/87870067-99983300-c9df-11ea-834a-fcc3d2f1f498.png">
 
 
-・(主に)人物の全身画像に対するラベリングツール.
-　想定用途は、画像変換タスク(pix2pixやその派生等)の学習データセット作成.
+・(主に)人物の全身画像に対するラベリングツール.<br>
+&emsp;想定用途は、画像変換タスク(pix2pixやその派生等)の学習データセット作成.
 
 ・配置する点の種類やつなぎ方は設定ファイル(config.json)で指定可能.
 
